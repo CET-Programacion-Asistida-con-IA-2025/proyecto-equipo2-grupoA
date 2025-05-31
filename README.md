@@ -1,7 +1,5 @@
-## Curso Ada Lovelace / Grace Hopper - Grupo #{numero} {nombre}
+## Grupo A - Equipo 2
 _Curso de Programación Asistida con IA - Chicas en Tecnología_ 🚀
-
-```⚠️ Dejar la opción correcta entre "Ada Lovelace" (Grupo de 17 a 19hs) y "Grace Hopper" (Grupo de 19 a 21hs) y agregar un nombre de equipo ⚠️```
 
 En este repositorio, se presenta el sitio web realizado durante el curso de programación frontend de CET.
 
