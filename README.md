@@ -1,5 +1,9 @@
 # Desafíos Sociales del Mundo Laboral Actual
 
+##  Moodboard
+
+![1](https://github.com/user-attachments/assets/97c1f69d-b9c2-482e-896f-7cafe3e4e8fd)
+
 ## 📋 Definición de la Problemática
 
 Este proyecto aborda los principales **desafíos sociales del mundo laboral contemporáneo**, enfocándose en tres problemáticas críticas que afectan a millones de trabajadores en Argentina y el mundo:
