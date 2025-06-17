@@ -81,7 +81,6 @@ Desarrollamos una **página web responsive** que funciona como centro de informa
 
 ## 📱 Instalación y Uso
 
-```bash
 # Clonar el repositorio
 git clone [https://github.com/tu-usuario/desafios-laborales.git](https://github.com/CET-Programacion-Asistida-con-IA-2025/proyecto-equipo2-grupoA)
 
@@ -91,16 +90,6 @@ cd desafios-laborales
 # Abrir en navegador
 open index.html
 ```
-
-## 🤝 Contribución
-
-Este proyecto busca generar conciencia y promover el diálogo sobre el futuro del trabajo. Las contribuciones son bienvenidas para:
-
-- Actualizar datos y estadísticas
-- Mejorar la accesibilidad web
-- Agregar nuevas perspectivas y análisis
-- Traducir contenido a otros idiomas
-
 ---
 
 *"Es responsabilidad de todos construir un mundo laboral más justo y equitativo para las generaciones futuras."*
