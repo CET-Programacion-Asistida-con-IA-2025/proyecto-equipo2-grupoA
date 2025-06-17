@@ -1,33 +1,102 @@
-## Grupo A - Equipo 2
-_Curso de Programación Asistida con IA - Chicas en Tecnología_ 🚀
+# Desafíos Sociales del Mundo Laboral Actual
 
-En este repositorio, se presenta el sitio web realizado durante el curso de programación frontend de CET.
+## 📋 Definición de la Problemática
 
-### 📄 Entregas
-**Entrega #1**: planificación de la solución y primeros resultados que obtengamos con la IA:
+Este proyecto aborda los principales **desafíos sociales del mundo laboral contemporáneo**, enfocándose en tres problemáticas críticas que afectan a millones de trabajadores en Argentina y el mundo:
 
-📝 Edición del Archivo README incluyendo:
-- Definición de la problemática que eligieron abordar
-- Relación con los *Objetivos de Desarrollo Sostenible (ODS)*[^1]
-- Explicación de la solución tecnológica que están desarrollando
-> [!TIP]
-> Aprovechen los [formatos del README](https://docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) para escribir diferentes secciones
+### 🚨 Problemáticas Identificadas
 
-🎨 Moodboard
+1. **Diferencias de Género en el Ambiente Laboral**
+   - Brecha salarial persistente entre hombres y mujeres
+   - Acceso limitado a puestos de liderazgo y toma de decisiones
+   - Discriminación y acoso laboral basado en género, orientación sexual y otras características
 
-🧩 Archivos generados con asistencia de IA: ```index.html```, ```style.css```, ```script.js```
+2. **Explotación Laboral y Estrés en el Trabajo Moderno**
+   - Jornadas laborales extendidas sin compensación adecuada
+   - Precariedad laboral y falta de protección social
+   - Impacto negativo en la salud mental de los trabajadores
 
+3. **Impacto de la Automatización en el Empleo**
+   - Transformación acelerada del mercado laboral
+   - Desplazamiento de empleos tradicionales vs. creación de nuevos roles
+   - Necesidad urgente de reconversión profesional
+   - Consideraciones éticas sobre la distribución de beneficios tecnológicos
 
-**Entrega #2 (Final)**: se esperan modificaciones en el código respecto a la entrega anterior, que pueden incluir nuevos archivos o extensión de los existentes (debe haber al menos un archivo de cada lenguaje visto - HTML, CSS y Javascript)
+## 🌍 Relación con los Objetivos de Desarrollo Sostenible (ODS)
 
-💡 Es una buena idea llevar un registro de lo que cambiamos. Por ejemplo
+Nuestro proyecto contribuye directamente al cumplimiento de varios ODS de la Agenda 2030:
+
+### 🎯 ODS Primarios
+
+- **ODS 5 - Igualdad de Género**: Abordamos la brecha salarial, discriminación laboral y promoción del liderazgo femenino
+- **ODS 8 - Trabajo Decente y Crecimiento Económico**: Promovemos condiciones laborales justas, empleo pleno y productivo
+- **ODS 10 - Reducción de las Desigualdades**: Trabajamos para reducir desigualdades de ingresos y oportunidades
+
+### 🎯 ODS Secundarios
+
+- **ODS 3 - Salud y Bienestar**: Consideramos el impacto del trabajo en la salud mental
+- **ODS 4 - Educación de Calidad**: Enfatizamos la importancia de la reconversión profesional
+- **ODS 9 - Industria, Innovación e Infraestructura**: Analizamos el impacto tecnológico responsable
+
+## 💻 Solución Tecnológica
+
+### 🌐 Plataforma Web Informativa y Educativa
+
+Desarrollamos una **página web responsive** que funciona como centro de información y sensibilización sobre los desafíos laborales actuales.
+
+### ✨ Características Técnicas
+
+- **Frontend**: HTML5, CSS3 con diseño responsive
+- **Navegación**: Interfaz intuitiva con menú de navegación fijo
+- **Accesibilidad**: Diseño inclusivo y semántica web apropiada
+- **Performance**: Optimizada para carga rápida en diferentes dispositivos
+
+### 🎨 Funcionalidades Implementadas
+
+1. **Estructura Informativa Organizada**
+   - Secciones temáticas claramente definidas
+   - Navegación fluida entre contenidos
+   - Botón de "volver arriba" para mejor UX
+
+2. **Diseño Visual Profesional**
+   - Paleta de colores corporativa
+   - Tipografía legible y jerarquía visual clara
+   - Efectos hover y transiciones suaves
+
+3. **Contenido Educativo Integral**
+   - Análisis detallado de cada problemática
+   - Datos contextualizados para Argentina
+   - Reflexiones sobre consideraciones éticas
+
+### 🚀 Impacto Esperado
+
+- **Sensibilización**: Educar sobre problemáticas laborales actuales
+- **Visibilización**: Dar voz a desafíos frecuentemente ignorados
+- **Acción**: Motivar cambios en políticas empresariales y públicas
+- **Conciencia**: Promover reflexión sobre el futuro del trabajo
+
+## 📱 Instalación y Uso
+
+```bash
+# Clonar el repositorio
+git clone https://github.com/tu-usuario/desafios-laborales.git
+
+# Navegar al directorio
+cd desafios-laborales
+
+# Abrir en navegador
+open index.html
 ```
-- Agregamos Bootstrap para el carrousel de imágenes...
-- Modificamos el texto de la sección de bienvenida...
-- Transformamos los textos sobre redes sociales en links...
-```
 
-Ahora si, ¡A programar! 🚀
+## 🤝 Contribución
 
+Este proyecto busca generar conciencia y promover el diálogo sobre el futuro del trabajo. Las contribuciones son bienvenidas para:
 
-[^1]: Los Objetivos de Desarrollo Sostenible u Objetivos Globales, también conocidos como Agenda 2030, son 17 objetivos globales interconectados diseñados para ser un «plan para lograr un futuro mejor y más sostenible para todos». Más información en https://www.un.org/sustainabledevelopment/es/objetivos-de-desarrollo-sostenible/
+- Actualizar datos y estadísticas
+- Mejorar la accesibilidad web
+- Agregar nuevas perspectivas y análisis
+- Traducir contenido a otros idiomas
+
+---
+
+*"Es responsabilidad de todos construir un mundo laboral más justo y equitativo para las generaciones futuras."*
