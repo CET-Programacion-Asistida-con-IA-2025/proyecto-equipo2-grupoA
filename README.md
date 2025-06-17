@@ -79,7 +79,7 @@ Desarrollamos una **página web responsive** que funciona como centro de informa
 
 ```bash
 # Clonar el repositorio
-git clone https://github.com/tu-usuario/desafios-laborales.git
+git clone [https://github.com/tu-usuario/desafios-laborales.git](https://github.com/CET-Programacion-Asistida-con-IA-2025/proyecto-equipo2-grupoA)
 
 # Navegar al directorio
 cd desafios-laborales
